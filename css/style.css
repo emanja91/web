@@ -1,0 +1,9 @@
+body{
+
+    margin-top: 2%;/*agrega un pequeño espacio 2% por encima del contenido*/
+    padding: 0; /*elimina todo el espacio interno (relleno) del body */
+    justify-content: center; /*centrado horizontal*/
+    display: flex; /*centrado vertical*/
+    background-color: bisque;/*agrega un color de fondo al sitio web*/
+
+}
