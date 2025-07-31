@@ -7,3 +7,17 @@ body{
     background-color: bisque;/*agrega un color de fondo al sitio web*/
 
 }
+a{
+    text-decoration: none; /*elimina el subrayado del texto del enlace*/
+    display: block;
+    background-color: chartreuse;
+    border-radius: 2px;
+}
+a:hover{
+    background-color:cornflowerblue;
+}
+table{
+    background-color: aliceblue;
+    width: 990px;
+    height: 350px;
+}
